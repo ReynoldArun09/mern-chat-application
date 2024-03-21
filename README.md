@@ -9,7 +9,7 @@ Chat Application - MERN stack
 
 ## 🔗 Links
 - Live: https://poetic-narwhal-e5d4fa.netlify.app/
-- Code: https://github.com/ReynoldArun09/mern-chat-app
+- Code: https://github.com/ReynoldArun09/MERN-chat-app
 
 ## 🛠 Technologies
 
