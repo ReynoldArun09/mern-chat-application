@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 - Live: https://poetic-narwhal-e5d4fa.netlify.app/
-- Code: https://github.com/ReynoldArun09/MERN-chat-app
+- Code: https://github.com/ReynoldArun09/mern-chat-application
 
 ## 🛠 Technologies
 
