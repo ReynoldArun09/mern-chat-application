@@ -1,5 +1,5 @@
-# Project Title
-Chat Application - MERN stack
+
+# Chat Application - MERN stack
 
 ## Tech Stack
 
